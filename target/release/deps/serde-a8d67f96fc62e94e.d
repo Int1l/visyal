@@ -1,0 +1,14 @@
+C:\Users\alex2\OneDrive\Desktop\black-launcher\target\release\deps\serde-a8d67f96fc62e94e.d: C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\alex2\OneDrive\Desktop\black-launcher\target\release\build\serde-8fe279487c80755d\out/private.rs
+
+C:\Users\alex2\OneDrive\Desktop\black-launcher\target\release\deps\libserde-a8d67f96fc62e94e.rlib: C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\alex2\OneDrive\Desktop\black-launcher\target\release\build\serde-8fe279487c80755d\out/private.rs
+
+C:\Users\alex2\OneDrive\Desktop\black-launcher\target\release\deps\libserde-a8d67f96fc62e94e.rmeta: C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\alex2\OneDrive\Desktop\black-launcher\target\release\build\serde-8fe279487c80755d\out/private.rs
+
+C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\alex2\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+C:\Users\alex2\OneDrive\Desktop\black-launcher\target\release\build\serde-8fe279487c80755d\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\alex2\\OneDrive\\Desktop\\black-launcher\\target\\release\\build\\serde-8fe279487c80755d\\out
