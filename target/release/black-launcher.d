@@ -1,1 +1,0 @@
-C:\Users\alex2\OneDrive\Desktop\Новая\ папка\black-launcher\target\release\black-launcher.exe: C:\Users\alex2\OneDrive\Desktop\Новая\ папка\black-launcher\src\launch.rs C:\Users\alex2\OneDrive\Desktop\Новая\ папка\black-launcher\src\main.rs
